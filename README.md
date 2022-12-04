@@ -7,9 +7,11 @@ Use either [`convert`](https://imagemagick.org/script/convert.php) or a
 to preview `.ppm` files.
 
 1. `./bin/paint -g 16 in.ppm`  
-<img src="./in.png" width=200 style="image-rendering: pixelated">
+![](./ex-in-256.png)
+
 2. `./bin/paint in.ppm out.ppm`  
-<img src="./out.png" width=200 style="image-rendering: pixelated">
+![](./ex-out-256.png)
+
 ```bash
 shapes: 25
 ```
